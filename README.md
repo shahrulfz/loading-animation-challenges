@@ -1,1 +1,1 @@
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://loading-animation-challenges.vercel.app/](https://loading-animation-challenges.vercel.app/) with your browser to see the result.
